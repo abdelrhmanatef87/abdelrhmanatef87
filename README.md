@@ -15,7 +15,6 @@
 ## 🚀 About Me
 
 - 🏢 I'm a Software Engineer 
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
