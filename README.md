@@ -15,7 +15,6 @@
 ## 🚀 About Me
 
 - 🏢 I'm a Software Engineer 
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 📫 How to reach me **abdelrhmanatefrshdan@gmail.com**
 
 
