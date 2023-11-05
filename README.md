@@ -21,6 +21,8 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-atef-446a31249/)
+[![Embedded Systems Portfolio](https://img.shields.io/badge/Embedded%20Systems%20Portfolio-FF5733?style=for-the-badge&logo=gradle&logoColor=yellow)](https://www.learn-in-depth-store.com/certificate/abdelrhmanatefrshdan@gmail.com)
+
 
 
 
