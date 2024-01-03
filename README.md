@@ -14,7 +14,7 @@
     
 ## 🚀 About Me
 
-- 🏢 I'm a Software Engineer 
+- 🏢 I'm an Embedded Software Engineer 
 - 📫 How to reach me **abdelrhmanatefrshdan@gmail.com**
 
 
