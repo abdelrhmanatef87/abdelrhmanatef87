@@ -14,7 +14,7 @@
     
 ## 🚀 About Me
 
-- 🏢 I'm a Devops Engineer 
+- 🏢 I'm a Software Engineer 
 - 📫 How to reach me **abdelrhmanatefrshdan@gmail.com**
 
 
